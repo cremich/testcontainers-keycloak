@@ -1,4 +1,8 @@
 # Testing a spring security keycloak integration with testcontainers.org
+[![Build Status](https://travis-ci.org/cremich/testcontainers-keycloak.svg?branch=master)](https://travis-ci.org/cremich/testcontainers-keycloak)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/cremich/testcontainers-keycloak/blob/master/LICENSE)
+[![versionspringboot](https://img.shields.io/badge/springboot-2.1.3_RELEASE-brightgreen.svg)](https://github.com/spring-projects/spring-boot)
+
 This sample application demonstrates how to test a spring [keycloak](https://www.keycloak.org) integration with [testcontainers.org](https://www.testcontainers.org).
 
 ## What is Keycloak?
