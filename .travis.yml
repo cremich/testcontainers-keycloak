@@ -1,0 +1,11 @@
+language: java
+jdk: openjdk11
+
+# skip the installation step entirely by adding:
+install: true
+
+script: ./mvnw clean install
+
+cache:
+  directories:
+    - $HOME/.m2

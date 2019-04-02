@@ -1,0 +1,7 @@
+keycloak:
+  auth-server-url: http://localhost:9002/auth
+  realm: demo
+  resource: demo-api
+  public-client: true
+  bearer-only: true
+  principal-attribute: preferred_username
